@@ -4,6 +4,17 @@
   box-sizing: border-box;
 }
 
+#about{
+    background-image: url('/img/bubble-bg-sm-edited.jpg');
+    background-size: cover;
+    height: 100vh;
+}
+
+#about h1, #about p{
+    margin-top: 0;
+    color: white;
+    font-size: 1.4em;
+}
 
 
 /* Small devices (tablets, 768px and up) */
