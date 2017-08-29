@@ -37,8 +37,16 @@
   font-size: 2em;
 }
 
+.myImg{
+    vertical-align: middle;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px;
+}
 
-
+#contact .col-md-6{
+    text-align: center;
+}
 
 /*==========  Mobile First Method  ==========*/
 
