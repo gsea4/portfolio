@@ -11,8 +11,17 @@
     height: 100vh;
 }
 
+#project{
+    background-color: bisque;
+}
+
+#project h2{
+    padding-top: 20px;
+    margin-top: 0;
+}
+
 #myCarousel{
-        display: block;
+    
 }
 
 #about h1, #about p{
@@ -22,7 +31,7 @@
 }
 
 #project, #contact{
-    margin: 40px 0;
+    padding: 40px 0;
 }
 
 #contact>*{
